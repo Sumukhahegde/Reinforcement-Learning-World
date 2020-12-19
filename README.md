@@ -114,4 +114,4 @@ $$P(S_t+1 |S_t) = P(S_t+1 | S_1,S_2,S_3...S_t)$$
 
 
 ## Medium Article 
-(Medium Article)[https://adabhishekdabas.medium.com/rl-world-3fc4dc38a73d]
+[Medium Article](https://adabhishekdabas.medium.com/rl-world-3fc4dc38a73d)

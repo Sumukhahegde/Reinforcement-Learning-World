@@ -8,7 +8,7 @@ Libraries like OpenAI gym and Keras have made it really easy to implement the De
 Check out our Medium Article 
 [Medium Article](https://adabhishekdabas.medium.com/rl-world-3fc4dc38a73d)
 
-<img src = "Vidoes/compiled video.mp4">
+<img src = "Videos/compliedgif.gif">
 
 # Supervised & Unsupervised Learning & Reinforcement Learning
 - Supervised & Unsupervised Learning -> Learning from data 

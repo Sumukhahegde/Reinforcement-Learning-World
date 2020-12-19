@@ -2,10 +2,17 @@
 In 2013, a company named **DeepMind**, acheievd a breakthrough in the world of Reinforcement Learning. They built a system that could learn to play many classic Atari games better than Humans.
 Libraries like OpenAI gym and Keras have made it really easy to implement the DeepMind's algorithms. 
 
-# ``Supervised`` & ``Unsupervised Learning`` & ``Reinforcement Learning``
+### Here we will try to understand the basic algorithms and the taxonomy of reinforcement Learning with its implementations on some environments
+
+## Medium Article:
+Check out our Medium Article 
+[Medium Article](https://adabhishekdabas.medium.com/rl-world-3fc4dc38a73d)
+
+<img src = "Vidoes/compiled video.mp4">
+
+# Supervised & Unsupervised Learning & Reinforcement Learning
 - Supervised & Unsupervised Learning -> Learning from data 
 - Reinforcement Learning -> learn from the environment
-
 > Supervised Learning: we have the input data & the output we want. We build the model based on these 2 things
 
 # When to Implement RL
@@ -21,9 +28,6 @@ Libraries like OpenAI gym and Keras have made it really easy to implement the De
 - Define a set of possible actions in this space
 - Define the Rewards, which would be +ve if goal is achieved and negative for failure.
 #### Note: Even when the envoronment is unknown, RL can be implemented
-
-# Stochastic vs Deterministic Environment
-A **Deterministic environment** is the one where a particular states leads to a fixed particular output state at all timesteps, whereas a **stochastic environemnt** is one where a certains state might not necessarily lead to a particular state, thus there is a probability for ending in a particular state.
 
 # Understanding with an environment of Tic-Tac-Toe
 Tic-tac-toe, is one such game, which we all have played. Lets start with this example. 
@@ -112,6 +116,3 @@ $$P(S_t+1 |S_t) = P(S_t+1 | S_1,S_2,S_3...S_t)$$
 4. Tensorforce
 5. KerasRL
 
-
-## Medium Article 
-[Medium Article](https://adabhishekdabas.medium.com/rl-world-3fc4dc38a73d)

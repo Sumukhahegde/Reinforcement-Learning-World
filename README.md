@@ -34,7 +34,7 @@ Tic-tac-toe, is one such game, which we all have played. Lets start with this ex
 - Here we want to take an **action** which increases our chances to win the game, and decreases the chances of the opponent to win the game.
 
 # Reinforcement Learning Taxonomy 
-<img src="images/taxonomy.png">
+<img src="image/Taxonomy.png">
 
 ## Value Based Methods
 
@@ -111,3 +111,7 @@ $$P(S_t+1 |S_t) = P(S_t+1 | S_1,S_2,S_3...S_t)$$
 3. Stable Baselines
 4. Tensorforce
 5. KerasRL
+
+
+## Medium Article 
+(Medium Article)[https://adabhishekdabas.medium.com/rl-world-3fc4dc38a73d]
